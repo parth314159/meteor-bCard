@@ -1,4 +1,4 @@
-Template.bCaard.helpers({
+Template.bCard.helpers({
 firstName : function(){
 	return Session.get('firstName');
 },
